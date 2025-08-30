@@ -1,5 +1,7 @@
 🏠 House Price Prediction App
 
+View live at:https://laptop-price-predictor-shazim.streamlit.app
+
 A Streamlit web application that predicts house prices using a Random Forest Regressor model. The app takes user inputs for various features of a house and returns the estimated price instantly.
 
 📸 DEMO
